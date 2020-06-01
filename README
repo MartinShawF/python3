@@ -1,0 +1,6 @@
+1.The k-means.py is the main method to get result. Just change the path of the data file
+2.the dist.txt is the l2 data which is got from the original data.
+3.test1.txt is the original data.
+4.the L2_calculate is the method to get the l2 data.
+5.It can find a define of k at the bottom of all program.Change k from 1 to 10
+6.Run it get the result.This will result in 300 rows of data. Each index value represents to which category the corresponding original data belongs
